@@ -1,16 +1,16 @@
 {
-    "name": "Church Name",
-    "short_name": "Church Name",
+    "name": "Bethel Baptist Church",
+    "short_name": "Bethel Baptist Church",
     "icons": [
         {
-            "src": "/android-chrome-192x192.png",
+            "src": "logo.png",
             "sizes": "192x192",
-            "type": "image/png"
+            "type": "uploads/image/png"
         },
         {
-            "src": "/android-chrome-512x512.png",
+            "src": "logo.png",
             "sizes": "512x512",
-            "type": "image/png"
+            "type": "uploads/image/png"
         }
     ],
     "theme_color": "#ffffff",
