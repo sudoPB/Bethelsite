@@ -3,12 +3,12 @@
     "short_name": "Bethel Baptist Church",
     "icons": [
         {
-            "src": "logo.png",
+            "src": "favicon.svg",
             "sizes": "192x192",
             "type": "uploads/image/png"
         },
         {
-            "src": "logo.png",
+            "src": "favicon.svg",
             "sizes": "512x512",
             "type": "uploads/image/png"
         }
