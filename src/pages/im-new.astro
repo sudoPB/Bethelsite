@@ -105,13 +105,13 @@ import Button from "../components/UI/Button.astro";
           <div class="mb-4">
             <p class="text-2xl font-bold text-primary-600 mb-2">7:00 AM</p>
             <p class="text-gray-600">Tamil Service</p>
-            <p class="italic text-gray-500 mt-2">In-person</p>
+            <p class="italic text-gray-500 mt-2">In-person only</p>
           </div>
           
           <div>
             <p class="text-2xl font-bold text-primary-600 mb-2">9:00 AM</p>
             <p class="text-gray-600">Contemporary Service with Children's Ministry</p>
-            <p class="italic text-gray-500 mt-2">In-person only & Livestream</p>
+            <p class="italic text-gray-500 mt-2">In-person & Livestream</p>
           </div>
         </div>
         
@@ -203,20 +203,14 @@ import Button from "../components/UI/Button.astro";
       <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
         <div>
           <div class="bg-gray-200 rounded-lg overflow-hidden h-96">
-            <!-- Placeholder for Google Maps iframe -->
-            <div class="w-full h-full flex items-center justify-center bg-gray-300">
-              <p class="text-gray-600 text-center p-4">
-                <iframe 
-                  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3959.3675983249454!2d77.6265466751565!3d12.940858287371652!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae14418b07457d%3A0x5536aa765912e3fa!2sBethel%20Baptist%20Church!5e1!3m2!1sen!2snp!4v1752945041041!5m2!1sen!2snp" 
-                  width="600" 
-                  height="380" 
-                  style="border:0;"
-                  loading="lazy" 
-                  referrerpolicy="no-referrer-when-downgrade">
-                </iframe><br>
-                <span class="text-sm">(For privacy reasons, not included in the template)</span>
-              </p>
-            </div>
+            <iframe 
+              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3959.3675983249454!2d77.6265466751565!3d12.940858287371652!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae14418b07457d%3A0x5536aa765912e3fa!2sBethel%20Baptist%20Church!5e1!3m2!1sen!2snp!4v1752945041041!5m2!1sen!2snp" 
+              width="610" 
+              height="385" 
+              style="border:0;"
+              loading="lazy" 
+              referrerpolicy="no-referrer-when-downgrade">
+            </iframe>
           </div>
         </div>
         
@@ -243,7 +237,7 @@ import Button from "../components/UI/Button.astro";
               Bus lines 10 and 14 stop directly in front of our building. The nearest subway station is Central Station, a 10-minute walk from our church.
             </p>
             
-            <Button href="https://maps.google.com/?q=123+Main+Street,+Anytown,+ST+12345" target="_blank" variant="primary">
+            <Button href="https://maps.app.goo.gl/NQfDGLe7ZdkPUrdq9" target="_blank" variant="primary">
               Get Directions
             </Button>
           </div>
