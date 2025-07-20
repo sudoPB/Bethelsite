@@ -2,7 +2,7 @@
 name: "David Wilson"
 title: "Worship Director"
 image: "/uploads/staff/david-wilson.webp"
-email: "david.wilson@churchname.org"
+email: "david.wilson@bethelbaptistchurch.in"
 phone: "+1-555-0104"
 bio: "David leads our worship ministry with passion and excellence, bringing over 15 years of experience in church music."
 order: 4

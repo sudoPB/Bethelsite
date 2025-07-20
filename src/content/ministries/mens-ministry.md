@@ -4,7 +4,7 @@ slug: "mens-ministry"
 logo: "/uploads/ministries/mens-ministry-logo.webp"
 summary: "Building strong Christian men through fellowship, discipleship, and service opportunities that strengthen faith and character."
 coordinator: "Robert Johnson"
-contact: "mens@churchname.org"
+contact: "mens@bethelbaptistchurch.in"
 schedule: "Men's Breakfast: 1st Saturday 8:00 AM | Bible Study: Thursday 7:00 PM"
 order: 4
 draft: false

@@ -1,30 +1,32 @@
 ---
-name: "Rev. Dr. John Smith"
+name: "Rev. Dr. Joseph K. Joseph"
 title: "Senior Pastor"
-image: "/uploads/staff/john-smith.webp"
-email: "pastor.john@churchname.org"
-phone: "+1-555-0101"
-bio: "Pastor John has been faithfully serving our congregation for over 12 years, bringing wisdom, compassion, and biblical teaching to our community."
+image: "/uploads/staff/jkj.webp"
+email: "jkj@bethelbaptistchurch.in"
+phone: "+91-12345-67890"
+bio: "Rev. Dr. Joseph K. Joseph has served the Lord for over five decades in India and the USA as a pastor, professor, and seminary principal, with a deep passion for church planting and theological education."
 order: 1
 draft: false
 ---
 
-Rev. Dr. John Smith has been the Senior Pastor of our church since 2013. He holds a Doctor of Ministry from Seminary University and has over 20 years of pastoral experience.
+Rev. Dr. Joseph K. Joseph trusted the Lord Jesus as his personal Savior in 1964 and was ordained to the ministry in 1974. He holds a B.Sc. from Kerala University, a Diploma in Theology from Berean Baptist Bible College (Bangalore), an M.A. in Bible from Bob Jones University, an M.Div. and Th.M. from San Francisco Theological Seminary, and a Doctor of Sacred Ministry (DSM) from Northland International University, USA. 
+
+Over the past 50 years, he has served as the principal of two Bible seminaries, visiting professor at four others, and pastor of four churches across the USA and India. He has taught Theology, Bible, Hebrew, Greek, and various related subjects.
 
 ## Ministry Philosophy
 
-Pastor John believes in expository preaching, pastoral care, and community engagement. His heart is to see people grow in their relationship with Christ and serve others with love.
+Dr. Joseph is committed to sound biblical teaching, leadership training, and church multiplication. His vision is to equip faithful men to lead local churches and expand the Gospel throughout India.
 
 ## Areas of Focus
 
-- Biblical preaching and teaching
-- Pastoral counseling and care
-- Leadership development
-- Community outreach initiatives
-- Vision casting for the church
+- Theological education and biblical languages  
+- Seminary leadership and teaching  
+- Church planting and pastoral ministry  
+- Missionary training and support  
+- Biblical counseling and discipleship  
 
 ## Personal Life
 
-Pastor John is married to Sarah, and they have three children. He enjoys reading, hiking, and spending time with his family. He is also an avid supporter of local community programs.
+Dr. Joseph is married to Leela Joseph, and they have three children—David, Daniel, and Deborah—and six grandchildren. They currently live in Bangalore, India, where he continues to lead Baptist Care Ministry, overseeing church planting efforts with 15 national missionaries.
 
-Contact Pastor John for pastoral care, counseling, or to discuss the vision and direction of our church.
+Contact Dr. Joseph for ministry partnerships, theological education, or church planting initiatives.

@@ -4,7 +4,7 @@ slug: "community-outreach"
 logo: "/uploads/ministries/community-outreach-logo.webp"
 summary: "Serving our local community through practical assistance, food distribution, and programs that demonstrate God's love in action."
 coordinator: "Mark Thompson"
-contact: "outreach@churchname.org"
+contact: "outreach@bethelbaptistchurch.in"
 schedule: "Food Pantry: Saturdays 9:00 AM | Community Meals: 2nd Sunday monthly"
 order: 3
 draft: false
