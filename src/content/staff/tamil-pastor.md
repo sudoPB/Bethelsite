@@ -1,10 +1,10 @@
 ---
-name: "Rev. Sarah Martinez"
-title: "Associate Pastor & Women's Ministry Director"
-image: "/uploads/staff/sarah-martinez.webp"
-email: "sarah.martinez@bethelbaptistchurch.in"
-phone: "+1-555-0102"
-bio: "Pastor Sarah leads our women's ministry and provides pastoral care with a heart for discipleship and community building."
+name: "Ps. Edwin Rajan"
+title: "Tamil Pastor"
+image: "/uploads/staff/edwin.webp"
+email: "edwin.rajan@bethelbaptistchurch.in"
+phone: "+91-12345-67890"
+bio: "He's not exactly known for his enthusiasm when it comes to getting things done. He eventually found himself in the United Kingdom"
 order: 2
 draft: false
 ---
