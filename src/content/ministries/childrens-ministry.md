@@ -1,4 +1,5 @@
 ---
+# Only edit "" items, and if you want, you can remove anything, but do not add extra things.
 name: "Children's Ministry"
 slug: "childrens-ministry"
 logo: "/uploads/ministries/childrens-ministry-logo.webp"
@@ -9,14 +10,15 @@ schedule: "Sunday School: 9:15 AM | Children's Church: 10:30 AM | Wednesday Kids
 order: 1
 draft: false
 ---
-
+<!-- You can add or remove anything below.-->
 ## Our Mission
 
 To partner with parents in raising children who know, love, and follow Jesus Christ. We create a safe, fun, and engaging environment where children can learn about God's love and develop a personal relationship with Him.
-
+<!-- this is for heading -->
 ## Age-Appropriate Programs
-
+<!-- this is for subheading -->
 ### Nursery (0-2 years)
+<!-- for points -->
 - Safe, loving care during services
 - Trained volunteers and security procedures
 - Age-appropriate toys and activities
