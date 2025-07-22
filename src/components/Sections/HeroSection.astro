@@ -1,6 +1,4 @@
 ---
-import Button from "../UI/Button.astro";
-
 export interface Props {
   title?: string;
   subtitle?: string;
@@ -14,11 +12,7 @@ export interface Props {
 const {
   title = "Welcome to Our Church",
   subtitle = "A place of worship, community, and spiritual growth",
-  backgroundImage = "/uploads/hero-bg.jpg",
-  ctaText = "Plan Your Visit",
-  ctaLink = "/im-new",
-  secondaryCtaText = "Watch Sermons",
-  secondaryCtaLink = "/sermons",
+  backgroundImage = "",
 } = Astro.props;
 ---
 
@@ -31,7 +25,6 @@ const {
     <div class="max-w-3xl text-white">
       <h1 class="text-4xl md:text-6xl font-bold mb-4 text-white">{title}</h1>
       <p class="text-xl md:text-2xl mb-8">{subtitle}</p>
-      
       </div>
     </div>
   </div>
