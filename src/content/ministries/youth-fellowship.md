@@ -1,6 +1,6 @@
 ---
 # Only edit "" items, and if you want, you can remove anything, but do not add extra things.
-name: "Youth Fellowship [Teens +]"
+name: "Youth Ministry"
 slug: "youth-fellowship"
 logo: "/uploads/ministries/youth-fellowship-logo.webp"
 summary: "A vibrant community for teens and young adults (10th grade & above) focused on Bible study, discipleship, and spiritual growth."
